@@ -1,0 +1,26 @@
+month,Station ID,Start station,Trip Starts,Rank
+Aug,1075,"Hyde Park Corner, Hyde Park",10268,1
+Jun,001075,"Hyde Park Corner, Hyde Park",8087,1
+Jul,001075,"Hyde Park Corner, Hyde Park",7985,1
+May,001075,"Hyde Park Corner, Hyde Park",7540,1
+Aug,1132,"Albert Gate, Hyde Park",6217,2
+Jul,001132,"Albert Gate, Hyde Park",5388,2
+Aug,1157,"Black Lion Gate, Kensington Gardens",5331,3
+Jun,001132,"Albert Gate, Hyde Park",5248,2
+Jun,001157,"Black Lion Gate, Kensington Gardens",4765,3
+Aug,1217,"Serpentine Car Park, Hyde Park",4449,4
+May,001132,"Albert Gate, Hyde Park",4447,2
+Jul,002696,"Waterloo Station 1, Waterloo",4408,3
+May,001157,"Black Lion Gate, Kensington Gardens",4377,3
+Jul,001157,"Black Lion Gate, Kensington Gardens",4366,4
+Aug,1088,"Triangle Car Park, Hyde Park",4344,5
+Jun,001072,"Waterloo Station 3, Waterloo",4326,4
+May,001072,"Waterloo Station 3, Waterloo",4051,4
+Jul,001072,"Waterloo Station 3, Waterloo",4021,5
+Jun,001011,"Argyle Street, Kings Cross",3711,5
+Sep,1075,"Hyde Park Corner, Hyde Park",3685,1
+May,002696,"Waterloo Station 1, Waterloo",3547,5
+Sep,1072,"Waterloo Station 3, Waterloo",2427,2
+Sep,2696,"Waterloo Station 1, Waterloo",2380,3
+Sep,1132,"Albert Gate, Hyde Park",2302,4
+Sep,1157,"Black Lion Gate, Kensington Gardens",2097,5

@@ -1,0 +1,21 @@
+"#",Route,Trips
+1,"Hyde Park Corner, Hyde Park -> Albert Gate, Hyde Park",2301
+2,"Albert Gate, Hyde Park -> Hyde Park Corner, Hyde Park",1883
+3,"Hyde Park Corner, Hyde Park -> Serpentine Car Park, Hyde Park",1870
+4,"Hyde Park Corner, Hyde Park -> Triangle Car Park, Hyde Park",1704
+5,"Ackroyd Drive, Bow -> Maplin Street, Mile End",1599
+6,"Hyde Park Corner, Hyde Park -> Black Lion Gate, Kensington Gardens",1516
+7,"Triangle Car Park, Hyde Park -> Hyde Park Corner, Hyde Park",1504
+8,"Black Lion Gate, Kensington Gardens -> Hyde Park Corner, Hyde Park",1498
+9,"Maplin Street, Mile End -> Ackroyd Drive, Bow",1470
+10,"Black Lion Gate, Kensington Gardens -> Palace Gate, Kensington Gardens",1370
+11,"Palace Gate, Kensington Gardens -> Black Lion Gate, Kensington Gardens",1304
+12,"Serpentine Car Park, Hyde Park -> Hyde Park Corner, Hyde Park",1302
+13,"Hyde Park Corner, Hyde Park -> Queen's Gate, Kensington Gardens",1258
+14,"Black Lion Gate, Kensington Gardens -> Albert Gate, Hyde Park",1028
+15,"Hyde Park Corner, Hyde Park -> Park Lane , Hyde Park",952
+16,"Queen's Gate, Kensington Gardens -> Hyde Park Corner, Hyde Park",946
+17,"Park Lane , Hyde Park -> Hyde Park Corner, Hyde Park",933
+18,"Stratford Station, Stratford -> Monier Road, Hackney Wick",912
+19,"Monier Road, Hackney Wick -> Stratford Station, Stratford",899
+20,"Hyde Park Corner, Hyde Park -> Palace Gate, Kensington Gardens",870

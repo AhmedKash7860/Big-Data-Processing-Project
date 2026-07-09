@@ -1,0 +1,5 @@
+time_of_day,Trips,Median (s),90th Percentile (s)
+Morning,1175595,782,1745
+Afternoon,1124068,871,2171
+Evening,1345337,852,1952
+Night,250680,801,1895
